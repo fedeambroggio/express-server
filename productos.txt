@@ -1,0 +1,1 @@
+[{"id":1,"title":"Amoladora","price":5200,"thumbnail":"www.google.com.ar"},{"id":2,"title":"Termofusora","price":7200,"thumbnail":"www.google.com.ar"},{"id":3,"title":"Taladro","price":2500,"thumbnail":"www.google.com.ar"}]
